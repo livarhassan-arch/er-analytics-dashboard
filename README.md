@@ -4,6 +4,13 @@ An interactive clinical data pipeline, simulation suite, and analytics dashboard
 
 ---
 
+## Live Application
+
+You can interact with the live, deployed dashboard directly in your browser here:  
+**[Launch Live ER Analytics Dashboard](https://er-analytics-dashboard-fsna9qr99v494fqkvr9vl6.streamlit.app/)**
+
+---
+
 ## Repository Structure
 
 * **app.py** — The macro-level frontend analytics dashboard built with Streamlit. Tracks patient volume, length of stay, and operational bottlenecks.
